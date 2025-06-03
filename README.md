@@ -91,12 +91,6 @@
 
 ---
 
-## 📚 Portfolio
-
-Coming soon at [juliandelgado.netlify.app](https://juliandelgado.netlify.app/)
-
----
-
 ## 📫 Contact Me
 
 - 🌐 Portfolio: [juliandelgado.netlify.app](https://juliandelgado.netlify.app/)
