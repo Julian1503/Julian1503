@@ -9,9 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+enthusiast+%F0%9F%A7%A0;Always+learning+new+tech!" alt="Typing animation" />
 </p>
 
-<p align="center">
-  ![Visitor Badge](https://komarev.com/ghpvc/?username=julian1503&style=flat-square&color=blue)
-</p>
+![Visitor Badge](https://komarev.com/ghpvc/?username=julian1503&style=flat-square&color=blue)
 
 ---
 
@@ -89,9 +87,7 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=julian1503&theme=github-compact" />
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=julian1503&theme=github-compact)
 
 ---
 
