@@ -91,17 +91,7 @@
 
 ---
 
-## 🎧 Now Playing on Spotify
-
-> _(You can set this up later with a Spotify API key)_
-
-<p align="center">
-  <img src="https://spotify-now-playing-kappa.vercel.app/api/now-playing?open" alt="Spotify Now Playing" />
-</p>
-
----
-
-## 📚 Latest Blog Posts
+## 📚 Portfolio
 
 Coming soon at [juliandelgado.netlify.app](https://juliandelgado.netlify.app/)
 
